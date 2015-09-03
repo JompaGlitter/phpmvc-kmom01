@@ -7,7 +7,7 @@
 }
 
 .navbar {
-  background-color: #eee;
+  background-color: #36f;
   border-radius: 4px;
 }
  
@@ -20,7 +20,7 @@
 .navbar li {
   display: inline-block;
   border-top: 4px solid transparent; 
-  color: #333; 
+  color: #fff; 
   position: relative; 
 }
  
@@ -34,15 +34,13 @@
 }
 
 .navbar li:hover {
-  color: #666; 
-  border-color: #666;
-  background-color: #ddd;
+  color: #c8c8c8;
 } 
  
 .navbar li.selected-parent, 
 .navbar li.selected {
-  color: #222; 
-  border-color: #222;
+  color: #fff;
+  background-color: #39f;
 }
 
 .navbar ul ul {

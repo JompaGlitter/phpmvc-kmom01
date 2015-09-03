@@ -62,13 +62,13 @@ return [
         'title_append' => ' | Idun web template',
 
         // Stylesheets
-        'stylesheets' => ['css/style.css', 'css/navbar.css'], // added CSS for navbar
+        'stylesheets' => ['css/style.css', 'css/navbar_me.css'], // added CSS for navbar
 
         // Inline style
         'style' => null,
 
         // Favicon
-        'favicon' => 'favicon.ico',
+        'favicon' => 'favicon_me.ico',
 
         // Path to modernizr or null to disable
         'modernizr' => 'js/modernizr.js',
